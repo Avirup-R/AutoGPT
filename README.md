@@ -1,1 +1,1 @@
-An simple implementation of AutoGPT.
+A simple implementation of AutoGPT.
